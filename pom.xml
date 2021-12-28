@@ -6,7 +6,7 @@
 
     <groupId>net.morphocraft.spigot</groupId>
     <artifactId>ExplosionProtector</artifactId>
-    <version>1.0.0-MC1.18.1</version>
+    <version>1.0.0-api-1.17.1</version>
     <packaging>jar</packaging>
 
     <name>ExplosionProtector</name>
@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.18.1-R0.1-SNAPSHOT</version>
+            <version>1.17.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
