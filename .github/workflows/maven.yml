@@ -6,10 +6,10 @@ name: Java CI with Maven
 on:
   push:
     tags:
-      - "v*.*.*-MC*.*.*"
+      - "v*.*.*"
   pull_request:
     tags:
-      - "v*.*.*-MC*.*.*"
+      - "v*.*.*"
 
 jobs:
   build:
