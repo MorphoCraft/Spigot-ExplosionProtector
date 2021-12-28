@@ -1,0 +1,8 @@
+name: ExplosionProtector
+version: '${project.version}'
+main: net.morphocraft.spigot.explosionprotector.ExplosionProtector
+api-version: 1.18
+prefix: MorphoExplosionProtector
+load: STARTUP
+authors: [ MorphocCraft ]
+website: https://morphocraft.net/
