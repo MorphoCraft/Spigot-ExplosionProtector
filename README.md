@@ -8,3 +8,6 @@
  * 盔甲架 / Armor Stand
  * 物品展示框 / Item Frame
  * 荧光物品展示框 / Glow Item Frame
+
+防止以上效果的同时仍能对实体造成伤害 / Prevent the above effects and still cause damage to entities  
+理论不支持Minecraft 1.16及以下版本 / Theoretically not supported Minecraft 1.16 and below versions
